@@ -259,14 +259,16 @@ Actively working through advanced Data Structures & Algorithms in C++, with a fo
 
 <div align="center">
 
-<!-- Optional: if you solve on LeetCode/Codeforces/GFG, a static badge is more reliable
-     than a scraped stats card. Replace [ADD HANDLE] once you have one, or delete these lines. -->
-<img src="https://tse4.mm.bing.net/th/id/OIP.x4o2bcIIj7tyPiJCLqqzKAHaDt?r=0&pid=Api&h=220&P=0" />
-<img src="https://tse2.mm.bing.net/th/id/OIP.fh8AHU0QzZxI_fhYKB6__AHaC3?r=0&pid=Api&h=220&P=0" />
+<a href="[YOUR LEETCODE PROFILE URL]">
+  <img src="https://tse4.mm.bing.net/th/id/OIP.x4o2bcIIj7tyPiJCLqqzKAHaDt?r=0&pid=Api&h=220&P=0" alt="LeetCode" width="120">
+</a>
+
+<a href="[YOUR CODECHEF PROFILE URL]">
+  <img src="https://tse2.mm.bing.net/th/id/OIP.fh8AHU0QzZxI_fhYKB6__AHaC3?r=0&pid=Api&h=220&P=0" alt="CodeChef" width="120">
+</a>
 
 </div>
-
-<br/>
+<br>
 
 <!-- =========================================================
      11 — PYTHON → AI
