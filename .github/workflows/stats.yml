@@ -1,0 +1,44 @@
+name: Generate self-hosted stats cards (fallback)
+
+# This workflow is optional. The README embeds live stats from the
+# github-stats-extended.vercel.app shared instance by default (see the
+# Implementation Guide). If that shared instance is ever rate-limited or
+# slow, enabling this workflow generates the same cards as static SVGs
+# committed to this repo, so the README never depends on a third party.
+
+on:
+  schedule:
+    - cron: "0 4 * * *"   # once a day, 04:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: "username=manukumsr54&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=8be9fd&icon_color=bd93f9&text_color=c9d1d9"
+          path: assets/stats-card.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: "username=manukumsr54&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=8be9fd&text_color=c9d1d9"
+          path: assets/top-langs-card.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated cards
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh self-hosted stats cards"
+          file_pattern: "assets/stats-card.svg assets/top-langs-card.svg"

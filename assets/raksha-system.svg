@@ -1,0 +1,56 @@
+<svg width="100%" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="RAKSHA system diagram: data flowing through a shield into decision and action">
+  <defs>
+    <linearGradient id="cardBg3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0B0F17"/>
+      <stop offset="100%" stop-color="#080B12"/>
+    </linearGradient>
+    <linearGradient id="shieldGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#6366F1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="300" rx="16" fill="url(#cardBg3)" stroke="#1B2333"/>
+  <text x="30" y="40" font-family="'Segoe UI', 'Fira Code', monospace" font-size="14" letter-spacing="3" fill="#22D3EE">RAKSHA // SYSTEM</text>
+  <text x="30" y="60" font-family="monospace" font-size="11" fill="#94A3B8">DATA &#8594; DECISION &#8594; ACTION &#8226; Smart India Hackathon 2026</text>
+
+  <!-- data nodes left -->
+  <g fill="#22D3EE">
+    <circle cx="110" cy="150" r="5"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="110" cy="120" r="4"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.9s" repeatCount="indefinite"/></circle>
+    <circle cx="110" cy="180" r="4"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.2s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="80" y="220" font-family="monospace" font-size="11" fill="#F8FAFC" text-anchor="middle">DATA</text>
+
+  <g stroke="#334155" stroke-width="1.2">
+    <line x1="118" y1="120" x2="330" y2="150"/>
+    <line x1="118" y1="150" x2="330" y2="150"/>
+    <line x1="118" y1="180" x2="330" y2="150"/>
+  </g>
+
+  <!-- shield / decision core -->
+  <g transform="translate(400,150)">
+    <path d="M0,-55 L45,-38 L45,10 C45,45 22,68 0,78 C-22,68 -45,45 -45,10 L-45,-38 Z"
+          fill="#0D1117" stroke="url(#shieldGrad)" stroke-width="2.6"/>
+    <circle r="8" fill="#22D3EE" opacity="0.85">
+      <animate attributeName="r" values="6;10;6" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="0" y="100" text-anchor="middle" font-family="monospace" font-size="12" fill="#F8FAFC">DECISION LAYER</text>
+  </g>
+
+  <g stroke="#334155" stroke-width="1.2">
+    <line x1="470" y1="150" x2="700" y2="120"/>
+    <line x1="470" y1="150" x2="700" y2="150"/>
+    <line x1="470" y1="150" x2="700" y2="180"/>
+  </g>
+
+  <!-- action nodes right -->
+  <g fill="#A855F7">
+    <rect x="700" y="112" width="14" height="14" rx="3"><animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/></rect>
+    <rect x="700" y="142" width="14" height="14" rx="3"><animate attributeName="opacity" values="0.4;1;0.4" dur="1.7s" repeatCount="indefinite"/></rect>
+    <rect x="700" y="172" width="14" height="14" rx="3"><animate attributeName="opacity" values="1;0.4;1" dur="2.3s" repeatCount="indefinite"/></rect>
+  </g>
+  <text x="750" y="220" font-family="monospace" font-size="11" fill="#F8FAFC" text-anchor="middle">ACTION</text>
+
+  <text x="30" y="270" font-family="monospace" font-size="10" fill="#64748B">Problem, approach and impact details: [ADD INFORMATION]</text>
+</svg>

@@ -1,0 +1,80 @@
+<svg width="100%" height="420" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Technology constellation connecting AI, Python, DSA, C++, Backend, Frontend and React">
+  <defs>
+    <linearGradient id="cardBg1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0B0F17"/>
+      <stop offset="100%" stop-color="#080B12"/>
+    </linearGradient>
+    <radialGradient id="nodeGlow1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="900" height="420" rx="16" fill="url(#cardBg1)" stroke="#1B2333"/>
+  <text x="30" y="42" font-family="'Segoe UI', 'Fira Code', monospace" font-size="14" letter-spacing="3" fill="#22D3EE">&#9702; TECH CONSTELLATION</text>
+
+  <!-- connective lines -->
+  <g stroke="#334155" stroke-width="1.3" opacity="0.75">
+    <line x1="450" y1="100" x2="330" y2="170"/>
+    <line x1="450" y1="100" x2="570" y2="170"/>
+    <line x1="330" y1="170" x2="450" y2="240"/>
+    <line x1="570" y1="170" x2="450" y2="240"/>
+    <line x1="450" y1="240" x2="330" y2="310"/>
+    <line x1="450" y1="240" x2="570" y2="310"/>
+    <line x1="570" y1="310" x2="570" y2="370"/>
+  </g>
+
+  <!-- AI -->
+  <g transform="translate(450,100)">
+    <circle r="30" fill="url(#nodeGlow1)"/>
+    <circle r="16" fill="#0D1117" stroke="#A855F7" stroke-width="2"/>
+    <circle r="3.5" fill="#A855F7"><animate attributeName="opacity" values="1;0.4;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    <text x="0" y="42" text-anchor="middle" font-family="monospace" font-size="13" fill="#F8FAFC">AI</text>
+    <text x="0" y="58" text-anchor="middle" font-family="monospace" font-size="10" fill="#94A3B8">exploring</text>
+  </g>
+
+  <!-- Python -->
+  <g transform="translate(330,170)">
+    <circle r="26" fill="url(#nodeGlow1)"/>
+    <circle r="14" fill="#0D1117" stroke="#22D3EE" stroke-width="2"/>
+    <text x="0" y="40" text-anchor="middle" font-family="monospace" font-size="13" fill="#F8FAFC">Python</text>
+  </g>
+
+  <!-- DSA -->
+  <g transform="translate(570,170)">
+    <circle r="26" fill="url(#nodeGlow1)"/>
+    <circle r="14" fill="#0D1117" stroke="#22D3EE" stroke-width="2"/>
+    <text x="0" y="40" text-anchor="middle" font-family="monospace" font-size="13" fill="#F8FAFC">DSA</text>
+  </g>
+
+  <!-- C++ -->
+  <g transform="translate(450,240)">
+    <circle r="30" fill="url(#nodeGlow1)"/>
+    <circle r="17" fill="#0D1117" stroke="#6366F1" stroke-width="2.4"/>
+    <text x="0" y="6" text-anchor="middle" font-family="monospace" font-size="12" fill="#F8FAFC">C++</text>
+    <text x="0" y="48" text-anchor="middle" font-family="monospace" font-size="10" fill="#94A3B8">core language</text>
+  </g>
+
+  <!-- Backend -->
+  <g transform="translate(330,310)">
+    <circle r="26" fill="url(#nodeGlow1)"/>
+    <circle r="14" fill="#0D1117" stroke="#22D3EE" stroke-width="2"/>
+    <text x="0" y="40" text-anchor="middle" font-family="monospace" font-size="13" fill="#F8FAFC">Backend</text>
+  </g>
+
+  <!-- Frontend -->
+  <g transform="translate(570,310)">
+    <circle r="26" fill="url(#nodeGlow1)"/>
+    <circle r="14" fill="#0D1117" stroke="#22D3EE" stroke-width="2"/>
+    <text x="0" y="40" text-anchor="middle" font-family="monospace" font-size="13" fill="#F8FAFC">Frontend</text>
+  </g>
+
+  <!-- React -->
+  <g transform="translate(570,370)">
+    <circle r="20" fill="url(#nodeGlow1)"/>
+    <circle r="11" fill="#0D1117" stroke="#38BDF8" stroke-width="2"/>
+    <text x="30" y="4" font-family="monospace" font-size="12" fill="#F8FAFC">React</text>
+  </g>
+
+  <text x="30" y="400" font-family="monospace" font-size="10" fill="#64748B">nodes represent active learning areas, not proficiency levels</text>
+</svg>

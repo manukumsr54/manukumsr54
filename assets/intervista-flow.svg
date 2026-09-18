@@ -1,0 +1,49 @@
+<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Intervista-AI flow: input, interview, analysis, feedback, improvement">
+  <defs>
+    <linearGradient id="cardBg4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0B0F17"/>
+      <stop offset="100%" stop-color="#080B12"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" rx="16" fill="url(#cardBg4)" stroke="#1B2333"/>
+  <text x="30" y="36" font-family="'Segoe UI', 'Fira Code', monospace" font-size="14" letter-spacing="3" fill="#22D3EE">INTERVISTA-AI &#8226; STATUS: IN DEVELOPMENT</text>
+
+  <g font-family="monospace" font-size="12" fill="#F8FAFC">
+    <!-- 5 stage boxes -->
+    <g transform="translate(30,90)">
+      <rect width="130" height="50" rx="8" fill="#0D1117" stroke="#22D3EE" stroke-width="1.6"/>
+      <text x="65" y="30" text-anchor="middle">INPUT</text>
+    </g>
+    <g transform="translate(195,90)">
+      <rect width="150" height="50" rx="8" fill="#0D1117" stroke="#6366F1" stroke-width="1.6"/>
+      <text x="75" y="30" text-anchor="middle">INTERVIEW</text>
+    </g>
+    <g transform="translate(380,90)">
+      <rect width="150" height="50" rx="8" fill="#0D1117" stroke="#6366F1" stroke-width="1.6"/>
+      <text x="75" y="30" text-anchor="middle">ANALYSIS</text>
+    </g>
+    <g transform="translate(565,90)">
+      <rect width="150" height="50" rx="8" fill="#0D1117" stroke="#A855F7" stroke-width="1.6"/>
+      <text x="75" y="30" text-anchor="middle">FEEDBACK</text>
+    </g>
+    <g transform="translate(750,90)">
+      <rect width="120" height="50" rx="8" fill="#0D1117" stroke="#A855F7" stroke-width="1.6"/>
+      <text x="60" y="24" text-anchor="middle">IMPROVE-</text>
+      <text x="60" y="38" text-anchor="middle">MENT</text>
+    </g>
+  </g>
+
+  <g stroke="#22D3EE" stroke-width="2" fill="none" marker-end="url(#arrow1)">
+    <line x1="160" y1="115" x2="192" y2="115"/>
+    <line x1="345" y1="115" x2="377" y2="115"/>
+    <line x1="530" y1="115" x2="562" y2="115"/>
+    <line x1="715" y1="115" x2="747" y2="115"/>
+  </g>
+  <defs>
+    <marker id="arrow1" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#22D3EE"/>
+    </marker>
+  </defs>
+
+  <text x="30" y="175" font-family="monospace" font-size="10" fill="#64748B">Voice/video interview concepts, resume &amp; ATS analysis, coding challenges &#8226; not all stages are production-ready yet</text>
+</svg>
