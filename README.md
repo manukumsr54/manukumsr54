@@ -19,13 +19,13 @@
      ========================================================= -->
 <div align="center">
 
-[`ABOUT`](#03--engineer-profile) &nbsp;&#183;&nbsp;
-[`STACK`](#05--technology-matrix) &nbsp;&#183;&nbsp;
-[`PROJECTS`](#08--selected-builds) &nbsp;&#183;&nbsp;
-[`DSA`](#10--problem-solving-lab) &nbsp;&#183;&nbsp;
-[`PYTHON / AI`](#11--python--ai) &nbsp;&#183;&nbsp;
-[`ACTIVITY`](#15--contribution-telemetry) &nbsp;&#183;&nbsp;
-[`CONTACT`](#17--contact)
+[`ABOUT`](#about) &nbsp;&#183;&nbsp;
+[`STACK`](#technology-matrix) &nbsp;&#183;&nbsp;
+[`PROJECTS`](#selected-builds) &nbsp;&#183;&nbsp;
+[`DSA`](#problem-solving-labs) &nbsp;&#183;&nbsp;
+[`PYTHON / AI`](#python--ai) &nbsp;&#183;&nbsp;
+[`ACTIVITY`](#contribution-telemetry) &nbsp;&#183;&nbsp;
+[`CONTACT`](#contact)
 
 </div>
 
