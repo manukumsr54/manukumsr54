@@ -34,7 +34,7 @@
 <!-- =========================================================
      03 — ENGINEER PROFILE
      ========================================================= -->
-### 03 — ENGINEER PROFILE
+### 🔹ABOUT 
 
 ```bash
 ┌─ ~/manu/profile ───────────────────────────────────┐
@@ -60,43 +60,11 @@ I'm a Computer Science student building toward full-stack software engineering �
 
 <br/>
 
-<!-- =========================================================
-     04 — DEVELOPER EVOLUTION
-     ========================================================= -->
-### 04 — DEVELOPER EVOLUTION
-
-```
-                    🎓 CSE
-                      │
-                      ▼
-                🌐 Web Development
-                      │
-                      ▼
-              ⚙ Frontend + Backend
-                      │
-                      ▼
-                  🧩 Full Stack
-                      │
-                ┌─────┴──────┐
-                ▼            ▼
-            🧠 DSA        🐍 Python
-          (learning)    (building with)
-                │            │
-                └─────┬──────┘
-                      ▼
-                   🤖 AI
-                (exploring)
-                      │
-                      ▼
-              🚀 Real Software
-```
-
-<br/>
 
 <!-- =========================================================
      05 — TECHNOLOGY MATRIX
      ========================================================= -->
-### 05 — TECHNOLOGY MATRIX
+### 🔸TECHNOLOGY MATRIX
 
 <table>
 <tr><td valign="top" width="50%">
@@ -129,25 +97,18 @@ Python libraries &#183; automation &#183; data experimentation &#183; AI experim
 </td></tr>
 </table>
 
-<sub>Icons via <a href="https://skillicons.dev">skillicons.dev</a> — a static icon service, not a scraped stats service, so it doesn't depend on your GitHub activity to render.</sub>
+<sub>Icons via <a href="https://skillicons.dev">skillicons.dev</a></sub>
 
 <br/>
 
 <!-- =========================================================
      06 — TECH CONSTELLATION
      ========================================================= -->
-### 06 — TECH CONSTELLATION
-
-<div align="center">
-<img src="./assets/tech-constellation.svg" alt="Technology constellation: AI, Python, DSA, C++, Backend, Frontend, React" width="100%">
-</div>
-
-<br/>
 
 <!-- =========================================================
      07 — CURRENT DEVELOPMENT STATUS
      ========================================================= -->
-### 07 — CURRENT DEVELOPMENT STATUS
+### 🔸CURRENT DEVELOPMENT STATUS
 
 ```
 ╭──────────────────────────────────────────────╮
@@ -175,7 +136,7 @@ Python libraries &#183; automation &#183; data experimentation &#183; AI experim
 <!-- =========================================================
      08 — SELECTED BUILDS
      ========================================================= -->
-### 08 — SELECTED BUILDS
+### 🔸SELECTED BUILDS
 
 Projects are where I turn concepts into software.
 
@@ -187,12 +148,12 @@ Projects are where I turn concepts into software.
 
 *"Bridging the Gap between Data and Action."* A Smart India Hackathon 2026 submission — problem-first, built end-to-end for the hackathon rather than as a tutorial exercise.
 
-`Problem:` [ADD INFORMATION]
-`Approach:` [ADD INFORMATION]
-`Technology:` [ADD INFORMATION]
+`Problem:` Fragmented disaster data slows emergency response.
+`Approach:` Turn satellite data into prioritized rescue actions.
+`Technology:` React · TypeScript · Node.js · PostgreSQL · PostGIS · Leaflet
 `Status:` Hackathon build
 
-[`Repository`](https://github.com/manukumsr54/SIH_2026_Project) &#183; `Live Demo: [ADD LINK]`
+[`Repository`](https://github.com/manukumsr54/SIH_2026_Project) &#183; `Demo Link: https://github.com/manukumsr54/SIH_2026_Project`
 
 </td><td width="50%" valign="top">
 
@@ -201,11 +162,11 @@ Projects are where I turn concepts into software.
 
 A student intelligence hub built for the AB Talks Hackathon — one place for announcements, opportunities, deadlines, events, internships and scholarships instead of five scattered ones.
 
-`Tech stack:` [ADD INFORMATION]
-`My role:` [ADD INFORMATION]
+`Tech stack:` React · Vite · Tailwind CSS · JavaScript · Lucide React
+`My role:` Frontend and Integration & Development
 `Status:` Hackathon build
 
-[`Repository`](https://github.com/manukumsr54/AB_Talks) &#183; `Live Demo: [ADD LINK]`
+[`Repository`](https://github.com/manukumsr54/AB_Talks) &#183; `Live Demo: ab-talks-lilac.vercel.app`
 
 </td></tr>
 <tr><td width="50%" valign="top">
@@ -215,12 +176,12 @@ A student intelligence hub built for the AB Talks Hackathon — one place for an
 
 A startup-style AI interview preparation platform — mock interviews, performance analysis, resume/ATS analysis, coding challenges, behind a SaaS-style frontend and backend.
 
-`Tech stack:` [ADD INFORMATION]
-`Status:` IN DEVELOPMENT — repository not yet public
+`Tech stack:` React · JavaScript · Node.js · Express · MongoDB · Tailwind
+`Status:` Public
 
 <img src="./assets/intervista-flow.svg" alt="Intervista-AI flow: input, interview, analysis, feedback, improvement" width="100%">
 
-`Repository: [ADD LINK once public]` &#183; `Live Demo: [ADD LINK]`
+`Repository: https://github.com/zaid786-collab/Intervista-AI` &#183; `Live Demo: [ADD LINK]`
 
 </td><td width="50%" valign="top">
 
@@ -232,7 +193,7 @@ A startup-style AI interview preparation platform — mock interviews, performan
 
 `Repository: [ADD LINK]`
 
-<sub>Placeholder kept intentionally polished and easy to replace once MANN's scope is finalized — see the Implementation Guide.</sub>
+<sub>Placeholder kept intentionally polished and easy to replace once MANN's scope is finalized . </sub>
 
 </td></tr>
 <tr><td width="50%" valign="top">
@@ -242,7 +203,7 @@ A startup-style AI interview preparation platform — mock interviews, performan
 
 My personal developer showcase and the home base for my online developer identity — frontend development, UI/UX, responsive interfaces, and write-ups of the projects above.
 
-`Tech stack:` [ADD INFORMATION]
+`Tech stack:` Next.js · React · TypeScript · Once UI · CSS Modules · MDX · Vercel
 
 `Repository: [ADD LINK]` &#183; `Live Site: [ADD LINK]`
 
@@ -255,7 +216,7 @@ Arrays &#183; Linked Lists &#183; Stacks &#183; Queues &#183; Trees &#183; Graph
 
 An ongoing, running log — not a finished body of work.
 
-`Repository: [ADD LINK to your DSA repo]`
+`Repository: [ADD LINK to DSA repo]`
 
 </td></tr>
 </table>
@@ -265,7 +226,7 @@ An ongoing, running log — not a finished body of work.
 <!-- =========================================================
      09 — PROJECT CONSTELLATION
      ========================================================= -->
-### 09 — PROJECT CONSTELLATION
+### 🔸PROJECT CONSTELLATION
 
 <div align="center">
 <img src="./assets/project-constellation.svg" alt="Build constellation connecting RAKSHA, AB_Talks, Intervista-AI, MANN, Portfolio and DSA" width="100%">
@@ -282,7 +243,7 @@ An ongoing, running log — not a finished body of work.
 <!-- =========================================================
      10 — PROBLEM SOLVING LAB
      ========================================================= -->
-### 10 — PROBLEM SOLVING LAB
+### 🔸PROBLEM SOLVING LABS
 
 ```
 C++
@@ -300,8 +261,8 @@ Actively working through advanced Data Structures & Algorithms in C++, with a fo
 
 <!-- Optional: if you solve on LeetCode/Codeforces/GFG, a static badge is more reliable
      than a scraped stats card. Replace [ADD HANDLE] once you have one, or delete these lines. -->
-<img src="https://img.shields.io/badge/LeetCode-%5BADD_HANDLE%5D-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-<img src="https://img.shields.io/badge/Codeforces-%5BADD_HANDLE%5D-0D1117?style=for-the-badge&logo=codeforces&logoColor=22D3EE" />
+<img src="https://tse4.mm.bing.net/th/id/OIP.x4o2bcIIj7tyPiJCLqqzKAHaDt?r=0&pid=Api&h=220&P=0" />
+<img src="https://tse2.mm.bing.net/th/id/OIP.fh8AHU0QzZxI_fhYKB6__AHaC3?r=0&pid=Api&h=220&P=0" />
 
 </div>
 
@@ -310,7 +271,7 @@ Actively working through advanced Data Structures & Algorithms in C++, with a fo
 <!-- =========================================================
      11 — PYTHON → AI
      ========================================================= -->
-### 11 — PYTHON → AI
+### 📝PYTHON → AI
 
 **PYTHON → EXPERIMENTATION → INTELLIGENCE**
 
@@ -333,7 +294,7 @@ I'm not claiming AI expertise — I'm using Python as the entry point into it: l
 <!-- =========================================================
      12 — HOW I BUILD
      ========================================================= -->
-### 12 — HOW I BUILD
+### 🔸HOW I BUILD
 
 <div align="center">
 <img src="./assets/engineering-pipeline.svg" alt="Engineering pipeline: idea, research, design, implement, test, debug, deploy, iterate" width="100%">
@@ -344,7 +305,7 @@ I'm not claiming AI expertise — I'm using Python as the entry point into it: l
 <!-- =========================================================
      13 — DEVELOPER TIMELINE
      ========================================================= -->
-### 13 — DEVELOPER TIMELINE
+### 🔸DEVELOPER TIMELINE
 
 <div align="center">
 <img src="./assets/developer-timeline.svg" alt="Developer timeline from 2025 web fundamentals through 2026 to what's next" width="100%">
@@ -355,7 +316,7 @@ I'm not claiming AI expertise — I'm using Python as the entry point into it: l
 <!-- =========================================================
      14 — BUILD QUEUE
      ========================================================= -->
-### 14 — BUILD QUEUE
+### 🔸BUILD QUEUE
 <sub>Current focus / learning momentum — not a proficiency score.</sub>
 
 ```
@@ -371,7 +332,7 @@ I'm not claiming AI expertise — I'm using Python as the entry point into it: l
 <!-- =========================================================
      15 — CONTRIBUTION TELEMETRY
      ========================================================= -->
-### 15 — CONTRIBUTION TELEMETRY
+### 🔸CONTRIBUTION TELEMETRY
 
 <div align="center">
 
@@ -398,7 +359,7 @@ I'm not claiming AI expertise — I'm using Python as the entry point into it: l
 <!-- =========================================================
      16 — ENGINEERING PHILOSOPHY
      ========================================================= -->
-### 16 — ENGINEERING PHILOSOPHY
+### 🔸ENGINEERING PHILOSOPHY
 
 ```
 BUILD.
@@ -415,16 +376,16 @@ Learning becomes valuable when it turns into something usable.
 <!-- =========================================================
      17 — CONTACT
      ========================================================= -->
-### 17 — CONTACT
+### 🔸CONTACT
 
 <div align="center">
 
 Let's build something meaningful.
 
 <a href="https://github.com/manukumsr54"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" /></a>
-<a href="[ADD LINKEDIN URL]"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE" /></a>
+<a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE" /></a>
 <a href="[ADD PORTFOLIO URL]"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=22D3EE" /></a>
-<a href="mailto:[ADD EMAIL]"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE" /></a>
+<a href="mailto:manukumsr54@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE" /></a>
 <a href="[ADD RESUME URL]"><img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=readdotcv&logoColor=22D3EE" /></a>
 
 </div>
