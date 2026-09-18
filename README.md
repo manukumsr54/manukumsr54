@@ -1,265 +1,439 @@
+<!-- =========================================================
+     01 — HERO
+     ========================================================= -->
 <div align="center">
 
-<!-- ============ HERO ============ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e1b4b&height=200&section=header&text=Manu%20Kumar&fontSize=42&fontColor=8be9fd&fontAlignY=38&desc=CSE%20Student%20%C2%B7%20Full-Stack%20Developer%20in%20Progress&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=900&color=8BE9FD&center=true&vCenter=true&width=640&lines=CSE+Student;Full-Stack+Developer+in+Progress;C%2B%2B+%26+Advanced+DSA+Practitioner;Python+Developer;Exploring+AI+%2F+Intelligent+Applications;Building+Real-World+Software)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <img src="./assets/hero-light.svg" alt="Manu Kumar — Developer System Online" width="100%">
+</picture>
 
 <br/>
 
-<a href="https://github.com/manukumsr54?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0f172a?style=for-the-badge&logo=github&logoColor=8be9fd&labelColor=0f172a" /></a>
-<a href="[ADD PORTFOLIO URL]"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=8be9fd&labelColor=0f172a" /></a>
-<a href="[ADD LINKEDIN URL]"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=8be9fd&labelColor=0f172a" /></a>
-<a href="mailto:[ADD EMAIL]"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=8be9fd&labelColor=0f172a" /></a>
-<a href="[ADD RESUME URL]"><img src="https://img.shields.io/badge/Resume-0f172a?style=for-the-badge&logo=readdotcv&logoColor=8be9fd&labelColor=0f172a" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=620&lines=Building+full-stack+applications;Solving+advanced+DSA+in+C%2B%2B;Exploring+Python+%26+AI;Turning+ideas+into+real+software;Learning+by+building)](https://git.io/typing-svg)
+
+</div>
+
+<!-- =========================================================
+     02 — NAVIGATION
+     ========================================================= -->
+<div align="center">
+
+[`ABOUT`](#03--engineer-profile) &nbsp;&#183;&nbsp;
+[`STACK`](#05--technology-matrix) &nbsp;&#183;&nbsp;
+[`PROJECTS`](#08--selected-builds) &nbsp;&#183;&nbsp;
+[`DSA`](#10--problem-solving-lab) &nbsp;&#183;&nbsp;
+[`PYTHON / AI`](#11--python--ai) &nbsp;&#183;&nbsp;
+[`ACTIVITY`](#15--contribution-telemetry) &nbsp;&#183;&nbsp;
+[`CONTACT`](#17--contact)
 
 </div>
 
 <br/>
 
-<!-- ============ ABOUT ============ -->
+<!-- =========================================================
+     03 — ENGINEER PROFILE
+     ========================================================= -->
+### 03 — ENGINEER PROFILE
 
-## About Me
-
-```txt
-class ManuKumar:
-    def __init__(self):
-        self.role        = "CSE Student"
-        self.focus       = ["Full-Stack Web Development", "Advanced DSA (C++)", "Python"]
-        self.exploring    = ["AI / Intelligent Applications", "Backend Architecture"]
-        self.philosophy  = "Build real products, not just tutorials"
+```bash
+┌─ ~/manu/profile ───────────────────────────────────┐
+│                                                     │
+│ $ whoami                                            │
+│ Manu Kumar                                          │
+│                                                      │
+│ $ current_role                                      │
+│ CSE Student / Full-Stack Developer in progress       │
+│                                                      │
+│ $ primary_focus                                     │
+│ Full-Stack Development                              │
+│ C++ / Advanced DSA                                  │
+│ Python / AI Exploration                             │
+│                                                      │
+│ $ philosophy                                        │
+│ Learn → Build → Break → Understand → Improve         │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 ```
 
-I'm a Computer Science student building toward full-stack software engineering — comfortable across **frontend and backend development**, and working through **advanced Data Structures & Algorithms in C++** to sharpen problem-solving. Alongside that I write **Python**, experiment with its libraries, and use it to explore automation and early AI/data work.
-
-I'd rather ship a small real project than finish another tutorial — most of what's pinned below came out of that instinct, including a **Smart India Hackathon 2026** submission. Still learning in public, still figuring out the stack that fits, but the direction is clear: **frontend → backend → full-stack → AI-aware software engineer.**
-
-<div align="center">
-
-**CSE Student** → **C++ / DSA Foundation** → **Frontend + Backend** → **Full-Stack Development** → **Python + AI Exploration** → **Real-World Products**
-
-</div>
+I'm a Computer Science student building toward full-stack software engineering — comfortable across frontend and backend, working through advanced Data Structures & Algorithms in C++ to sharpen problem-solving, and using Python to explore automation and early AI/data work. I'd rather ship a small real project than finish another tutorial — RAKSHA, built for Smart India Hackathon 2026, is the clearest example of that so far.
 
 <br/>
 
-<!-- ============ TECH STACK ============ -->
+<!-- =========================================================
+     04 — DEVELOPER EVOLUTION
+     ========================================================= -->
+### 04 — DEVELOPER EVOLUTION
 
-## Tech Stack
+```
+                    🎓 CSE
+                      │
+                      ▼
+                🌐 Web Development
+                      │
+                      ▼
+              ⚙ Frontend + Backend
+                      │
+                      ▼
+                  🧩 Full Stack
+                      │
+                ┌─────┴──────┐
+                ▼            ▼
+            🧠 DSA        🐍 Python
+          (learning)    (building with)
+                │            │
+                └─────┬──────┘
+                      ▼
+                   🤖 AI
+                (exploring)
+                      │
+                      ▼
+              🚀 Real Software
+```
+
+<br/>
+
+<!-- =========================================================
+     05 — TECHNOLOGY MATRIX
+     ========================================================= -->
+### 05 — TECHNOLOGY MATRIX
 
 <table>
-<tr>
-<td valign="top" width="50%">
+<tr><td valign="top" width="50%">
 
-**Languages**
+**01 — CORE LANGUAGES**
 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=cpp,js,py,html,css" alt="C++, JavaScript, Python, HTML, CSS" />
 
-**Frontend**
+**02 — FRONTEND**
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Responsive_UI-0f172a?style=flat-square&logo=css3&logoColor=8be9fd" />
+<img src="https://skillicons.dev/icons?i=react" alt="React" /> &nbsp; responsive UI &#183; component architecture
 
-</td>
-<td valign="top" width="50%">
+</td><td valign="top" width="50%">
 
-**Backend**
+**03 — BACKEND**
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-0f172a?style=flat-square&logo=fastapi&logoColor=8be9fd" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express" /> &nbsp; REST APIs &#183; database development
 
-**Python Ecosystem**
+**04 — PYTHON**
 
-<img src="https://img.shields.io/badge/Data_%2F_AI_Experimentation-0f172a?style=flat-square&logo=python&logoColor=8be9fd" />
+Python libraries &#183; automation &#183; data experimentation &#183; AI experimentation
 
-**Tools**
+</td></tr>
+<tr><td colspan="2">
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
+**05 — ENGINEERING TOOLS**
 
-</td>
-</tr>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Git, GitHub, VS Code, npm" />
+
+</td></tr>
 </table>
 
+<sub>Icons via <a href="https://skillicons.dev">skillicons.dev</a> — a static icon service, not a scraped stats service, so it doesn't depend on your GitHub activity to render.</sub>
+
 <br/>
 
-<!-- ============ CURRENT FOCUS ============ -->
+<!-- =========================================================
+     06 — TECH CONSTELLATION
+     ========================================================= -->
+### 06 — TECH CONSTELLATION
 
-## Currently
+<div align="center">
+<img src="./assets/tech-constellation.svg" alt="Technology constellation: AI, Python, DSA, C++, Backend, Frontend, React" width="100%">
+</div>
 
-```yaml
-Building:     [Full-stack web apps, real-world products, early AI-powered features]
-Improving:    [Advanced DSA in C++, backend architecture, database design, API design]
-Exploring:    [AI-assisted applications, the wider Python ecosystem, scalable app design]
+<br/>
+
+<!-- =========================================================
+     07 — CURRENT DEVELOPMENT STATUS
+     ========================================================= -->
+### 07 — CURRENT DEVELOPMENT STATUS
+
+```
+╭──────────────────────────────────────────────╮
+│           CURRENT DEVELOPMENT STATUS          │
+├──────────────────────────────────────────────┤
+│                                                │
+│ ⚙ BUILDING                                    │
+│   Full-stack web applications                 │
+│   Real-world product experiences               │
+│                                                │
+│ 🧠 IMPROVING                                   │
+│   Advanced DSA · C++ · Backend Architecture     │
+│                                                │
+│ 🐍 EXPLORING                                   │
+│   Python ecosystem · Python libraries           │
+│                                                │
+│ ◉ RESEARCHING                                  │
+│   AI-driven software                           │
+│                                                │
+╰──────────────────────────────────────────────╯
 ```
 
 <br/>
 
-<!-- ============ PROJECTS ============ -->
+<!-- =========================================================
+     08 — SELECTED BUILDS
+     ========================================================= -->
+### 08 — SELECTED BUILDS
 
-## Featured Projects
+Projects are where I turn concepts into software.
 
 <table>
-<tr>
-<td width="50%" valign="top">
+<tr><td width="50%" valign="top">
 
-### 🛰️ RAKSHA
-**Smart India Hackathon 2026 submission**
+#### 🛡️ RAKSHA — `SIH 2026`
+**DATA → DECISION → ACTION**
 
-*"Bridging the Gap between Data and Action."*
+*"Bridging the Gap between Data and Action."* A Smart India Hackathon 2026 submission — problem-first, built end-to-end for the hackathon rather than as a tutorial exercise.
 
-A problem-first project built for SIH 2026, focused on turning raw data into something a user or responder can actually act on — built end-to-end for the hackathon rather than as a tutorial exercise.
+`Problem:` [ADD INFORMATION]
+`Approach:` [ADD INFORMATION]
+`Technology:` [ADD INFORMATION]
+`Status:` Hackathon build
 
-**Stack:** [ADD INFORMATION]
-**My role:** [ADD INFORMATION]
+[`Repository`](https://github.com/manukumsr54/SIH_2026_Project) &#183; `Live Demo: [ADD LINK]`
 
-[`Repository`](https://github.com/manukumsr54/SIH_2026_Project) · `Live Demo: [ADD LINK]`
+</td><td width="50%" valign="top">
 
-</td>
-<td width="50%" valign="top">
+#### 🎓 AB_TALKS — Student Hub
+**CAMPUS FEED · OPPORTUNITIES · DEADLINES · SAVED ITEMS · SEARCH**
 
-### 🎓 AB_Talks — Student Hub
-**Hackathon project**
+A student intelligence hub built for the AB Talks Hackathon — one place for announcements, opportunities, deadlines, events, internships and scholarships instead of five scattered ones.
 
-A student information and opportunity platform built for the AB Talks Hackathon, covering the day-to-day things a student actually needs to track.
+`Tech stack:` [ADD INFORMATION]
+`My role:` [ADD INFORMATION]
+`Status:` Hackathon build
 
-**Problem it solves:** Scattered college announcements, deadlines, events, internships and scholarships — brought into one dashboard with a campus feed, saved items and global search.
+[`Repository`](https://github.com/manukumsr54/AB_Talks) &#183; `Live Demo: [ADD LINK]`
 
-**Stack:** [ADD INFORMATION]
-**My role:** [ADD INFORMATION]
+</td></tr>
+<tr><td width="50%" valign="top">
 
-[`Repository`](https://github.com/manukumsr54/AB_Talks) · `Live Demo: [ADD LINK]`
+#### 🎤 INTERVISTA-AI
+**AI INTERVIEW COACH**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+A startup-style AI interview preparation platform — mock interviews, performance analysis, resume/ATS analysis, coding challenges, behind a SaaS-style frontend and backend.
 
-### 🎤 Intervista-AI
-**AI Interview Coach**
+`Tech stack:` [ADD INFORMATION]
+`Status:` IN DEVELOPMENT — repository not yet public
 
-A startup-style AI interview preparation platform: mock interviews, performance analysis, resume/ATS analysis, and coding-challenge practice behind a SaaS-style frontend and backend.
+<img src="./assets/intervista-flow.svg" alt="Intervista-AI flow: input, interview, analysis, feedback, improvement" width="100%">
 
-**Status:** In development — repository not yet public.
-**Stack:** [ADD INFORMATION]
+`Repository: [ADD LINK once public]` &#183; `Live Demo: [ADD LINK]`
 
-`Repository: [ADD LINK once public]` · `Live Demo: [ADD LINK]`
+</td><td width="50%" valign="top">
 
-</td>
-<td width="50%" valign="top">
+#### ⌬ MANN
+[PROJECT INFORMATION TO BE ADDED]
 
-### 🌐 Portfolio
-**Personal developer showcase**
-
-My personal site — frontend development, UI/UX and responsive design put into practice, and the place all of the above projects are written up properly.
-
-**Stack:** [ADD INFORMATION]
-
-`Repository: [ADD LINK]` · `Live Site: [ADD LINK]`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 MANN
-[Project description to be added]
-
-**Stack:** [ADD INFORMATION]
-**Problem it solves:** [ADD INFORMATION]
+`Tech stack:` [ADD INFORMATION]
+`Problem it solves:` [ADD INFORMATION]
 
 `Repository: [ADD LINK]`
 
-</td>
-<td width="50%" valign="top">
+<sub>Placeholder kept intentionally polished and easy to replace once MANN's scope is finalized — see the Implementation Guide.</sub>
 
-### 🧠 DSA in C++
-**Ongoing problem-solving practice**
+</td></tr>
+<tr><td width="50%" valign="top">
 
-A running log of advanced Data Structures & Algorithms work in C++ — arrays and strings through trees, graphs and DP, with an eye on complexity analysis, not just "does it pass."
+#### ◩ PORTFOLIO
+**MANU // PORTFOLIO**
+
+My personal developer showcase and the home base for my online developer identity — frontend development, UI/UX, responsive interfaces, and write-ups of the projects above.
+
+`Tech stack:` [ADD INFORMATION]
+
+`Repository: [ADD LINK]` &#183; `Live Site: [ADD LINK]`
+
+</td><td width="50%" valign="top">
+
+#### ∑ DSA // C++
+**PROBLEM-SOLVING LABORATORY**
+
+Arrays &#183; Linked Lists &#183; Stacks &#183; Queues &#183; Trees &#183; Graphs &#183; Hashing &#183; Algorithms &#183; Complexity Analysis
+
+An ongoing, running log — not a finished body of work.
 
 `Repository: [ADD LINK to your DSA repo]`
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 <br/>
 
-<!-- ============ DSA SECTION ============ -->
-
-## Problem Solving & DSA
-
-Actively working through advanced Data Structures & Algorithms in C++ — arrays, strings, trees, graphs, dynamic programming — with a focus on writing correct, efficient solutions and reasoning about time/space complexity, not just getting a green checkmark.
+<!-- =========================================================
+     09 — PROJECT CONSTELLATION
+     ========================================================= -->
+### 09 — PROJECT CONSTELLATION
 
 <div align="center">
-
-<!-- Optional: if you solve on LeetCode/Codeforces/GFG, a static badge is more reliable than a scraped stats card.
-     Replace [ADD HANDLE] and delete this comment once you have a handle to link. -->
-<img src="https://img.shields.io/badge/LeetCode-[ADD_HANDLE]-0f172a?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0f172a" />
-<img src="https://img.shields.io/badge/Codeforces-[ADD_HANDLE]-0f172a?style=for-the-badge&logo=codeforces&logoColor=8be9fd&labelColor=0f172a" />
-
+<img src="./assets/project-constellation.svg" alt="Build constellation connecting RAKSHA, AB_Talks, Intervista-AI, MANN, Portfolio and DSA" width="100%">
 </div>
+
+<details>
+<summary><b>RAKSHA — system detail</b></summary>
+<br/>
+<img src="./assets/raksha-system.svg" alt="RAKSHA system diagram: data flowing through a shield into decision and action" width="100%">
+</details>
 
 <br/>
 
-<!-- ============ PYTHON + AI ============ -->
-
-## Python → AI Journey
+<!-- =========================================================
+     10 — PROBLEM SOLVING LAB
+     ========================================================= -->
+### 10 — PROBLEM SOLVING LAB
 
 ```
-Python  →  Libraries  →  Small Projects  →  Automation & Early AI/Data Experiments
+C++
+ │
+ ├── Data Structures
+ ├── Algorithms
+ ├── Complexity Analysis
+ ├── Optimization
+ └── Problem Solving
 ```
 
-I'm not claiming AI expertise — I'm using Python as the entry point into it: learning the libraries, building small projects, and using that to poke at automation and data-driven features inside larger apps like RAKSHA and Intervista-AI.
-
-<br/>
-
-<!-- ============ GITHUB STATS ============ -->
-
-## GitHub Stats
+Actively working through advanced Data Structures & Algorithms in C++, with a focus on writing correct, efficient solutions and reasoning about time/space complexity — not just getting a green checkmark.
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=manukumsr54&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=8be9fd&icon_color=bd93f9&text_color=c9d1d9" width="49%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=manukumsr54&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=8be9fd&text_color=c9d1d9" width="30%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=manukumsr54&theme=tokyonight&background=00000000&border=0&fire=bd93f9&currStreakLabel=8be9fd&sideNums=c9d1d9&sideLabels=c9d1d9" width="60%" />
-
-</div>
-
-> Stats are generated live from public activity — nothing here is hand-typed or fabricated. If a card fails to load (shared free services occasionally rate-limit), it will show an error state rather than a wrong number — see the Animation Guide for the self-hosted fallback.
-
-<br/>
-
-<!-- ============ CONTACT ============ -->
-
-## Let's Connect
-
-<div align="center">
-
-<a href="[ADD LINKEDIN URL]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:[ADD EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="[ADD PORTFOLIO URL]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<!-- Optional: if you solve on LeetCode/Codeforces/GFG, a static badge is more reliable
+     than a scraped stats card. Replace [ADD HANDLE] once you have one, or delete these lines. -->
+<img src="https://img.shields.io/badge/LeetCode-%5BADD_HANDLE%5D-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+<img src="https://img.shields.io/badge/Codeforces-%5BADD_HANDLE%5D-0D1117?style=for-the-badge&logo=codeforces&logoColor=22D3EE" />
 
 </div>
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:0f172a&height=100&section=footer" width="100%"/>
+<!-- =========================================================
+     11 — PYTHON → AI
+     ========================================================= -->
+### 11 — PYTHON → AI
 
-<sub>Building, breaking, and rebuilding — one project at a time. 🚀</sub>
+**PYTHON → EXPERIMENTATION → INTELLIGENCE**
+
+```
+🐍 PYTHON
+      ↓
+  LIBRARIES
+      ↓
+ EXPERIMENTS
+      ↓
+  PROJECTS
+      ↓
+AI APPLICATIONS
+```
+
+I'm not claiming AI expertise — I'm using Python as the entry point into it: learning the libraries, building small projects, and using that to explore automation and early data-driven features inside larger apps like RAKSHA and Intervista-AI.
+
+<br/>
+
+<!-- =========================================================
+     12 — HOW I BUILD
+     ========================================================= -->
+### 12 — HOW I BUILD
+
+<div align="center">
+<img src="./assets/engineering-pipeline.svg" alt="Engineering pipeline: idea, research, design, implement, test, debug, deploy, iterate" width="100%">
+</div>
+
+<br/>
+
+<!-- =========================================================
+     13 — DEVELOPER TIMELINE
+     ========================================================= -->
+### 13 — DEVELOPER TIMELINE
+
+<div align="center">
+<img src="./assets/developer-timeline.svg" alt="Developer timeline from 2025 web fundamentals through 2026 to what's next" width="100%">
+</div>
+
+<br/>
+
+<!-- =========================================================
+     14 — BUILD QUEUE
+     ========================================================= -->
+### 14 — BUILD QUEUE
+<sub>Current focus / learning momentum — not a proficiency score.</sub>
+
+```
+[■■■■■■■■■■] Full-Stack Development     current focus
+[■■■■■■■□□□] Advanced DSA               active practice
+[■■■■■■□□□□] Python                     ongoing
+[■■■■■□□□□□] AI                         exploring
+[■■■■□□□□□□] Open Source                early stage
+```
+
+<br/>
+
+<!-- =========================================================
+     15 — CONTRIBUTION TELEMETRY
+     ========================================================= -->
+### 15 — CONTRIBUTION TELEMETRY
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manukumsr54/manukumsr54/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/manukumsr54/manukumsr54/output/github-snake-light.svg" alt="GitHub contribution snake" width="100%">
+</picture>
+
+<br/><br/>
+
+<img src="https://github-stats-extended.vercel.app/api?username=manukumsr54&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=22D3EE&icon_color=A855F7&text_color=c9d1d9" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=manukumsr54&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=22D3EE&text_color=c9d1d9" width="30%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=manukumsr54&theme=tokyonight&background=00000000&border=0&fire=A855F7&currStreakLabel=22D3EE&sideNums=c9d1d9&sideLabels=c9d1d9" width="60%" />
+
+</div>
+
+> Every card here is generated live from public activity — nothing is hand-typed. The snake animation and stats cards each have a self-hosted fallback (see the Implementation Guide) if the shared instances are ever slow or rate-limited.
+
+<br/>
+
+<!-- =========================================================
+     16 — ENGINEERING PHILOSOPHY
+     ========================================================= -->
+### 16 — ENGINEERING PHILOSOPHY
+
+```
+BUILD.
+BREAK.
+UNDERSTAND.
+IMPROVE.
+SHIP.
+```
+
+Learning becomes valuable when it turns into something usable.
+
+<br/>
+
+<!-- =========================================================
+     17 — CONTACT
+     ========================================================= -->
+### 17 — CONTACT
+
+<div align="center">
+
+Let's build something meaningful.
+
+<a href="https://github.com/manukumsr54"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" /></a>
+<a href="[ADD LINKEDIN URL]"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE" /></a>
+<a href="[ADD PORTFOLIO URL]"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=22D3EE" /></a>
+<a href="mailto:[ADD EMAIL]"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE" /></a>
+<a href="[ADD RESUME URL]"><img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=readdotcv&logoColor=22D3EE" /></a>
+
+</div>
+
+<br/>
+
+<!-- =========================================================
+     18 — ANIMATED FOOTER
+     ========================================================= -->
+<div align="center">
+<img src="./assets/footer.svg" alt="System status: continuously learning" width="100%">
 </div>
